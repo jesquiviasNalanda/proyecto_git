@@ -1,2 +1,2 @@
 # proyecto_git
-Proyecto para el curos de Git
+Proyecto para el curso de Git
